@@ -2,10 +2,12 @@
 # Description
 This is a filter that I made for the holidays! It is made using Meta's Spark AR Studio which is a program that allows creators to make 2D and 3D filters for Instagram and Facebook.
 
-<img src="./user-attachments/assets/ba53b980-109f-4d2e-96d8-52f357f724ea.png" width = 200 height = 400>
+<img src="images/IMG_9252.png" width = 200 height = 400>
 
 # Usage
-My filter is avalible on Instagram right now, and has had some interaction already so far. Every single account that I've tested it on has been a mutual follower so far, so the filter has shown up as one of the higher ones on the list, but if you need to search it it's listed under "Christmas Reindeer".
+My filter is avalible on Instagram right now at https://www.instagram.com/ar/9288038497872812, and has had some interaction already so far. Every single account that I've tested it on has been a mutual follower so far, so the filter has shown up as one of the higher ones on the list, but if you need to search it it's listed under "Christmas Reindeer".
+
+Please note that you do have to be on the newest version of Instagram to use my filter, I ran into this issue while testing.
 
 
 ![Image](https://github.com/user-attachments/assets/b798a7c9-7f1f-4958-9ae2-e88d3a02c9ff)
