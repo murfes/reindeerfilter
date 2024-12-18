@@ -2,7 +2,7 @@
 # Description
 This is a filter that I made for the holidays! It is made using Meta's Spark AR Studio which is a program that allows creators to make 2D and 3D filters for Instagram and Facebook.
 
-<img src="images/IMG_9252.png" width = 200 height = 400>
+<img src="images/IMG_9252.png" width = 200 height = 400>                    <img src="images/IMG_5328.jpg" width = 200 height = 400>
 
 # Usage
 My filter is avalible on Instagram right now at https://www.instagram.com/ar/9288038497872812, and has had some interaction already so far. Every single account that I've tested it on has been a mutual follower so far, so the filter has shown up as one of the higher ones on the list, but if you need to search it it's listed under "Christmas Reindeer".
