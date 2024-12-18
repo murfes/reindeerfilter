@@ -24,3 +24,7 @@ Secondly, Spark AR's base templates also helped. I was able to base most of my f
 
 <img width="1072" alt="Screenshot_2024-12-17_at_8 46 33_PM" src="https://github.com/user-attachments/assets/f9c97580-f1b4-4df1-8ff9-4f4941ed5784" />
 
+Lastly, face references were extremely important for this project, without them I would not have been able to accurately design the assets used. Luckily, Spark AR has references to help found at : https://spark.meta.com/learn/articles/people-tracking/face-reference-assets/
+![Screenshot_128](https://github.com/user-attachments/assets/94614aa6-6b2b-4d07-918b-72af362855b3)
+
+
